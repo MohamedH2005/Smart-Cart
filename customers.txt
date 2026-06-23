@@ -1,0 +1,5 @@
+C001,John Smith,john@email.com,+123,15,$1234,2024-01-01,Active
+C002,Sarah Johnson,sarah@email.com,+124,8,$567,2024-01-05,Active
+C003,Michael Brown,michael@email.com,+125,23,$2345,2024-01-10,VIP
+C004,Emily Davis,emily@email.com,+126,5,$234,2024-01-15,Active
+C005,Robert Wilson,robert@email.com,+127,12,$890,2024-01-20,Active

@@ -1,0 +1,11 @@
+P001,Milk,2.99,5,Dairy,Low Stock,2026-04-26
+P002,Bread,1.99,25,Bakery,In Stock,2026-04-26
+P003,Eggs,3.49,12,Dairy,In Stock,2026-04-26
+P004,Yogurt,1.49,8,Dairy,Low Stock,2026-04-26
+P005,Cheese,4.99,15,Dairy,In Stock,2026-04-26
+P006,Apple,0.99,50,Fruits,In Stock,2026-04-26
+P007,Banana,0.59,30,Fruits,In Stock,2026-04-26
+P008,Orange,0.79,20,Fruits,In Stock,2026-04-26
+P009,Chicken,8.99,10,Meat,Low Stock,2026-04-26
+P010,Beef,12.99,8,Meat,Low Stock,2026-04-26
+P011,Pizza,100,100,B,In Stock,2026-04-26

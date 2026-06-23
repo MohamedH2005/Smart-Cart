@@ -1,0 +1,6 @@
+@echo off
+echo Compiling all Java files...
+javac *.java
+echo Compilation complete!
+echo Running Login...
+java Login
